@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ATMWithdrawal", "ATMWithdrawal\ATMWithdrawal.vcxproj", "{80D54407-C3E9-4230-A4C0-F728EB0DECEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D54407-C3E9-4230-A4C0-F728EB0DECEC}.Debug|x64.ActiveCfg = Debug|x64
+		{80D54407-C3E9-4230-A4C0-F728EB0DECEC}.Debug|x64.Build.0 = Debug|x64
+		{80D54407-C3E9-4230-A4C0-F728EB0DECEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{80D54407-C3E9-4230-A4C0-F728EB0DECEC}.Debug|x86.Build.0 = Debug|Win32
+		{80D54407-C3E9-4230-A4C0-F728EB0DECEC}.Release|x64.ActiveCfg = Release|x64
+		{80D54407-C3E9-4230-A4C0-F728EB0DECEC}.Release|x64.Build.0 = Release|x64
+		{80D54407-C3E9-4230-A4C0-F728EB0DECEC}.Release|x86.ActiveCfg = Release|Win32
+		{80D54407-C3E9-4230-A4C0-F728EB0DECEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEB3E55-8404-4E6A-8123-825BC8658560}
+	EndGlobalSection
+EndGlobal
